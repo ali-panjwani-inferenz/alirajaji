@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alirajaji
 - 👀 I’m interested in deep learning, machine leaning, artificial inteligence, computer vision, natural language processing
-- 🌱 I’m currently learning yolo v8
-- 💞️ I’m looking to collaborate on any ml or dl projects
+- 🤳 I’m had learned yolo v7,v8
+- ✔ I.m currently working on Rasa and OpenAI
 - 📫 Reach me at aliraza5466@gmail.com
