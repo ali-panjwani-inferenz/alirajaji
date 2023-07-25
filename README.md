@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @alirajaji
+- 👋 Hi, I’m @ali-panjwani-inferenz
 - 👀 I’m interested in deep learning, machine leaning, artificial inteligence, computer vision, natural language processing
 - 🤳 I’m had learned yolo v7,v8
 - ✔ I.m currently working on Rasa and OpenAI
-- 📫 Reach me at aliraza5466@gmail.com
